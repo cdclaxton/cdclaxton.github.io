@@ -1,0 +1,1 @@
+# Addressable alarm system simulation
